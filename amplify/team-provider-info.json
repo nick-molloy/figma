@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-coinmatch1-staging-175153-authRole",
+      "UnauthRoleArn": "arn:aws:iam::236304326653:role/amplify-coinmatch1-staging-175153-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::236304326653:role/amplify-coinmatch1-staging-175153-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-coinmatch1-staging-175153-deployment",
+      "UnauthRoleName": "amplify-coinmatch1-staging-175153-unauthRole",
+      "StackName": "amplify-coinmatch1-staging-175153",
+      "StackId": "arn:aws:cloudformation:us-east-1:236304326653:stack/amplify-coinmatch1-staging-175153/eb82e580-af88-11ec-99d8-0e52bea8e7c9",
+      "AmplifyAppId": "d87z058ft2vn6"
+    }
+  }
+}
